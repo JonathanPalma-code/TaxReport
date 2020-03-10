@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TaxReport.Entities
+﻿namespace TaxReport.Entities
 {
     abstract class TaxPayer
     {
