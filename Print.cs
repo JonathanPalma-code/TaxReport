@@ -2,7 +2,7 @@
 
 namespace TaxReport
 {
-    class Program
+    class Print
     {
         static void Main(string[] args)
         {
