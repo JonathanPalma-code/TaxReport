@@ -43,11 +43,7 @@ namespace TaxReport
                 Console.WriteLine(taxPayer);
             }
             Console.WriteLine($"\n\nTOTAL TAXES: " +
-<<<<<<< HEAD
                 $"£{totalTax.ToString("F2")}");
-=======
-                $"{totalTax.ToString("F2")}");
->>>>>>> 3653ef9692997b7683f24f6b0e073b644191062c
         }
     }
 }
