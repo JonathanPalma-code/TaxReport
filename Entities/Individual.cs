@@ -24,7 +24,7 @@ namespace TaxReport.Entities
 
         public override string ToString()
         {
-            return $"{Name}: £{Tax()}";
+            return $"{Name}: £{Tax().ToString("F2")}";
         }
     }
 }

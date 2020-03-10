@@ -1,0 +1,11 @@
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.exe
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.deps.json
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.runtimeconfig.json
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.runtimeconfig.dev.json
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.dll
+C:\Users\jonat\Documents\C#\Projects\TaxReport\bin\Debug\netcoreapp3.1\TaxReport.pdb
+C:\Users\jonat\Documents\C#\Projects\TaxReport\obj\Debug\netcoreapp3.1\TaxReport.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\TaxReport\obj\Debug\netcoreapp3.1\TaxReport.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\C#\Projects\TaxReport\obj\Debug\netcoreapp3.1\TaxReport.AssemblyInfo.cs
+C:\Users\jonat\Documents\C#\Projects\TaxReport\obj\Debug\netcoreapp3.1\TaxReport.dll
+C:\Users\jonat\Documents\C#\Projects\TaxReport\obj\Debug\netcoreapp3.1\TaxReport.pdb
