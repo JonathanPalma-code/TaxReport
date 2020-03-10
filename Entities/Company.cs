@@ -21,5 +21,10 @@ namespace TaxReport.Entities
                 (AnnualIncome * .14);
             return total;
         }
+
+        public override string ToString()
+        {
+            return $"{Name}: £{Tax()}";
+        }
     }
 }

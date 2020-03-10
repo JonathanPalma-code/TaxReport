@@ -21,5 +21,10 @@ namespace TaxReport.Entities
                 (AnnualIncome * .25) - (HealthExpenditures * .50);
             return total;
         }
+
+        public override string ToString()
+        {
+            return $"{Name}: £{Tax()}";
+        }
     }
 }
